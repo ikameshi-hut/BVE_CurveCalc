@@ -36,7 +36,5 @@ Ver.1.0	初版公開
 
 ===========================================
 
-逆　コ　ン　パ　イ　ル　、　二　次　配　布　は　O　K　で　す　!　 / WE CAN DECOMPILE and DISTRIBUTE!
-
 このソフトウェアには、Ver2.0より、GPL(GNU General Public License)3.0が適用されます。
-(C)2018-2023 ikameshi All rights reserved.
+(C)2018-2023 ikameshi
