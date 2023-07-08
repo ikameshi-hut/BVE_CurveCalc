@@ -1,14 +1,13 @@
 曲線通過速度計算機 For BVE Ver.2.0をダウンロードしていただき、ありがとうございます。
 
-このソフトウェアはBVE路線作成のサポートを目的として作られたものです。本職の方用ではないですよ！
-
+このソフトウェアはBVE路線作成のサポートを目的として作られたものです。
 
 =========================
-動作にはJavaが必要です。起動しても「Javaがない」という旨の英文エラーが表示される場合、下記URLからJava Runtime environment をダウンロード・インストールしてください。
+動作にはJavaが必要です。起動しても「Javaがない」という旨の英文エラー(This application requires a Java Runtime Environment 1.6.0)が表示される場合、
+下記URLからJava Runtime environment をダウンロード・インストールしてください。
 
 https://java.com/ja/download/
 =========================
-
 
 このソフトウェアでは、
 カーブの大きさからカーブの制限速度を算出
@@ -20,21 +19,23 @@ https://java.com/ja/download/
 逆に、あらかじめ頭の中で理想の速度を決めてから、それに近い速度を実現できるカーブ、カントの大きさを算出させる
 という使い方も可能です。
 
-もしこのソフトウェアがお役に立ちましたら、本当にできればで構いませんので、下記URLの「Contact」から
-報告してくださると幸いです！
+---
 
 いかめし研究所
-https://ikameshi-hut.github.io/kanato
+https://ikameshi-hut.github.io
 
+---
 
 ---=== 更新履歴 ===---
-Ver.2.0	readme.txt(この文書)の内容更新
-		ライセンスの変更(二次配布禁止 -> GPL3.0)
+Ver.2.0	Readme.txt(この文書)の内容更新
+		ライセンスの変更
+		(Ver.2.0a)Readme.txt(この文書)の内容更新
 
 Ver.1.0	初版公開
 
 
 ===========================================
 
-このソフトウェアには、Ver2.0より、GPL(GNU General Public License)3.0が適用されます。
+このソフトウェアには、Ver2.0より、GPL(GNU General Public License)3.0が適用されます。LICENSE.txtを参照。
+プログラム中にGPL3.0と矛盾する文章があっても、その文章は無効です。
 (C)2018-2023 ikameshi
